@@ -1,7 +1,7 @@
 package com.mentoria.HotelServics.infrastructure.controllers.impl;
 
 import com.mentoria.HotelServics.domain.request.HotelCreateRequest;
-import com.mentoria.HotelServics.domain.service.HotelService;
+import com.mentoria.HotelServics.application.service.HotelService;
 import com.mentoria.HotelServics.infrastructure.controllers.HotelApi;
 import com.mentoria.HotelServics.infrastructure.entities.HotelEntity;
 import lombok.RequiredArgsConstructor;

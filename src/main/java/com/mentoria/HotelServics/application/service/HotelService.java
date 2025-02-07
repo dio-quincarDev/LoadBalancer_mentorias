@@ -1,4 +1,4 @@
-package com.mentoria.HotelServics.domain.service;
+package com.mentoria.HotelServics.application.service;
 
 import com.mentoria.HotelServics.domain.request.HotelCreateRequest;
 import com.mentoria.HotelServics.infrastructure.entities.HotelEntity;
