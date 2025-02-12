@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mentoria</groupId>
-	<artifactId>HotelServics</artifactId>
+	<artifactId>HotelServices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HotelServics</name>
+	<name>HotelServices</name>
 	<description>LoadBalancer Mentorias</description>
 	<url/>
 	<licenses>
